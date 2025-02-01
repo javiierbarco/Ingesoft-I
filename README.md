@@ -19,7 +19,7 @@ ChazaUNApp es una plataforma diseñada para la gestión y promoción de pequeño
 - **Servicios externos:** Firebase (Autenticación, Base de datos en tiempo real), Google Maps API.
 
 ## Icono o Logo del Proyecto: 
-Aún no está definido.
+<img src="Documentación/assets/logo.jpg" alt="Logo" width="200"/>
 
 ## Archivo .gitignore:
 Se ha implementado un archivo '.gitignore' basado en las mejores prácticas de [Toptal Gitignore Generator](https://www.toptal.com/developers/gitignore).
