@@ -20,7 +20,7 @@ ChazaUNApp es una plataforma diseñada para la gestión y promoción de pequeño
 
 ## Icono o Logo del Proyecto: 
 <img src="Documentación/assets/logo.jpg" alt="Logo" width="200"/>
-Créditos de la imagen a [OpenArt](https://openart.ai/create)
+Créditos de la imagen a OpenArt (https://openart.ai/create).
 
 ## Archivo .gitignore:
 Se ha implementado un archivo '.gitignore' basado en las mejores prácticas de [Toptal Gitignore Generator](https://www.toptal.com/developers/gitignore).
