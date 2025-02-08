@@ -11,7 +11,7 @@
 **Nombre del proyecto:** ChazaUNApp
 ---
 ## Descripción del Proyecto:
-ChazaUNApp es una plataforma diseñada para la gestión y promoción de pequeños negocios y ventas informales dentro de la Universidad Nacional de Colombia. Permite a los vendedores registrar sus negocios y a los compradores encontrar productos y servicios fácilmente.
+ChazaUNApp es una plataforma pensada y diseñada para la gestión y promoción de pequeños negocios y ventas informales dentro de la Universidad Nacional de Colombia. Inicialmente, permite a los dueños de las chazas o chazeros registrar sus negocios y poder hacer gestión de los estudiantes que serán vendedores o trabajadores de las chazas, así como también le permite a los estudiantes poder vincularse para trabajar en alguna de las chazas. Posteriormente, se espera poder vincular a los compradores para que a través de esta aplicación puedan encontrar productos y servicios en alguna de las chazas disponibles.
 
 ## Tecnologías utilizadas:
 - **Lenguajes de programación:** Dart
